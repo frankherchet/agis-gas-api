@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Download and visualize data from https://agis.gie.eu
 # based on article of CT
 
